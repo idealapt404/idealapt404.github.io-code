@@ -27,9 +27,20 @@ github_username:  yokolet
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+# disable default syntax highlighter
+highlighter: none
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+#theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
+
+# bulma-clean-theme settings
+fixed_navbar: top
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
