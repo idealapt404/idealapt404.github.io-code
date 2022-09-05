@@ -58,7 +58,7 @@ The extension, `inc.js`, is for external JavaScript file.
 I downloaded Angular's minified JavaScript file and put it under src directory with the extension, inc.js.
 
 Below is a whole code of `hello_angular.cljs.hl`.
-{% highlight clojure linenos %}
+{% highlight clojure %}
 {% raw %}
 (page "hello-angular.html")
 
@@ -129,7 +129,7 @@ I put images under `assets/img` directory, then Hoplon's boot copies those to `r
 
 For this button application, I created `src/angular_buttons.cljs.hl` below:
 
-{% highlight clojure linenos %}
+{% highlight clojure %}
 {% raw %}
 (page "angular-buttons.html")
 
@@ -146,7 +146,7 @@ For this button application, I created `src/angular_buttons.cljs.hl` below:
 
 Angular's controller code is `src/controllers/buttons.cljs.hl`, which is:
 
-{% highlight clojure linenos %}
+{% highlight clojure %}
 (ns controllers.buttons)
 
 (def buttonApp

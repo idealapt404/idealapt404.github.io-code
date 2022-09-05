@@ -62,7 +62,7 @@ Steps of the algorithm are:
 
 The sorted version of permutation in Java will be something like this:
 
-{% highlight java linenos %}
+{% highlight java %}
 import java.util.Arrays;
 
 public class AllPermutations {
