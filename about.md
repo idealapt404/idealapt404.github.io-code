@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-permalink: /about/
+menubar: about_menu
+hero_image: /assets/img/IMG_1493.jpeg
+show_sidebar: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About yokolet’s notelets
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi! Thank you for visiting my website!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This website is mostly for blog posts.
+The posts here are for myself to remember things.
+So, each post is nothing special, can be found a similar one elsewhere.
+Writing by my own words helps me to understand things and shape ideas better.
 
-
-[jekyll-organization]: https://github.com/jekyll
+The update will be random. When I’m impressed by something, I write a new post.
