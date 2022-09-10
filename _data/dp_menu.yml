@@ -1,0 +1,6 @@
+- label: Algorithm / Dynamic Programming
+  items:
+    - name: Maximum Length of Subarray With Positive Product
+      link: /algo/dynamic_programming/2022-09-10-maximum-length-of-subarray-with-positive-product
+    - name: Number of Ways to Select Buildings
+      link: /algo/dynamic_programming/2022-09-10-number-of-ways-to-select-buildings
