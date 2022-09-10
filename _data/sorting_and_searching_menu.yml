@@ -2,5 +2,9 @@
   items:
     - name: Analyze User Website Visit Pattern
       link: /algo/sorting_and_searching/2022-09-09-analyze-user-website-visit-pattern
+    - name: K Closest Points to Origin
+      link: /algo/sorting_and_searching/2022-09-10-k-closest-points-to-origin
     - name: Reorder Data in Log Files
       link: /algo/sorting_and_searching/2022-09-09-reorder-data-in-log-files
+    - name: Search Suggestions System
+      link: /algo/sorting_and_searching/2022-09-10-search-suggestions-system

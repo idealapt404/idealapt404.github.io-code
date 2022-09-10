@@ -49,6 +49,24 @@ In the end, the answer will be bottom right of the memoization matrix.
 
 
 ## Solution
+- Python
+
+```python
+class BestTimeToBuyAndSellStockFour:
+    def maxProfit(self, k: int, prices: List[int]) -> int:
+        n = len(prices)
+        if n == 0:
+            return 0
+        memo = [[0 for _ in range(n)] for _ in range(k + 1)]
+        for i in range(1, k + 1):
+            prev = float('-inf')
+            for j in range(1, n):
+                prev = max(prev, memo[i - 1][j - 1] - prices[j - 1])
+                memo[i][j] = max(memo[i][j - 1], prev + prices[j])
+        return memo[k][n - 1]
+```
+- C++
+
 ```cpp
 #include <vector>
 #include <iostream>

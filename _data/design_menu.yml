@@ -1,0 +1,4 @@
+- label: Algorithm / Design
+  items:
+    - name: LRU Cache
+      link: /algo/design/2022-09-09-lru-cache

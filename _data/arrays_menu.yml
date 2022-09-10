@@ -1,0 +1,6 @@
+- label: Algorithm / Arrays
+  items:
+    - name: Minimum Health to Beat Game
+      link: /algo/arrays/2022-09-09-minimum-health-to-beat-game
+    - name: Number of Islands
+      link: /algo/arrays/2022-09-10-number-of-islands
