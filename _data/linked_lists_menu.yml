@@ -1,0 +1,6 @@
+- label: Algorithm / Linked Lists
+  items:
+    - name: Maximum Twin Sum of a Linked List
+      link: /algo/linked_lists/2022-09-12-maximum-twin-sum-of-a-linked-list
+    - name: Palindrome Linked List
+      link: /algo/linked_lists/2022-09-12-palindrome-linked-list
