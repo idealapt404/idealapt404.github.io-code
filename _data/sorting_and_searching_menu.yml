@@ -4,8 +4,12 @@
       link: /algo/sorting_and_searching/2022-09-09-analyze-user-website-visit-pattern
     - name: K Closest Points to Origin
       link: /algo/sorting_and_searching/2022-09-10-k-closest-points-to-origin
+    - name: Maximum Units on a Truck
+      link: /algo/sorting_and_searching/2022-09-13-maximum-units-on-a-truck
     - name: Meeting Rooms II -- Minimum Rooms
       link: /algo/sorting_and_searching/2022-09-10-meeting-rooms-ii
+    - name: Minimum Cost to Connect Sticks
+      link: /algo/sorting_and_searching/2022-09-13-minimum-cost-to-connect-sticks
     - name: Plates Between Candles
       link: /algo/sorting_and_searching/2022-09-10-plates-between-candles
     - name: Reorder Data in Log Files
@@ -14,3 +18,5 @@
       link: /algo/sorting_and_searching/2022-09-12-reorganize-string
     - name: Search Suggestions System
       link: /algo/sorting_and_searching/2022-09-10-search-suggestions-system
+    - name: Shortest Path to Get Food
+      link: /algo/sorting_and_searching/2022-09-13-shortest-path-to-get-food

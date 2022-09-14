@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Algorithm
-subtitle: Others
-menubar: others_menu
+subtitle: Trees
+menubar: trees_menu
 hero_image: /assets/img/fall_pond.jpeg
 show_sidebar: false
 ---
 
 ## Algorithm
-### Others
+### Trees
 
-Math, Simulation and Others
+Binary Tree, Binary Search Tree or other

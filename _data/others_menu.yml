@@ -2,5 +2,7 @@
   items:
     - name: Maximum Length of Subarray With Positive Product
       link: /algo/others/2022-09-10-find-triangular-sum-of-an-array
+    - name: Robot Bounded In Circle
+      link: /algo/others/2022-09-13-robot-bounded-in-circle
     - name: The kth Factor of n
       link: /algo/others/2022-09-12-the-kth-factor-of-n

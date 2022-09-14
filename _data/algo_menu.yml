@@ -12,8 +12,6 @@
       link: /algo/trees/
     - name: Graphs
       link: /algo/graphs/
-    - name: Heaps
-      link: /algo/heaps
     - name: Dynamic Programming
       link: /algo/dynamic_programming/
     - name: Backtracking

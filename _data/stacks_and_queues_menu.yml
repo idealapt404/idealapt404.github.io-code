@@ -8,5 +8,9 @@
       link: /algo/stacks_and_queues/2022-09-07-largest-rectangle-in-histogram
     - name: Minimum Remove to Make Valid Parentheses
       link: /algo/stacks_and_queues/2022-09-07-minimum-remove-to-make-valid-parentheses
+    - name: Sum of Subarray Minimums
+      link: /algo/stacks_and_queues/2022-09-13-sum-of-subarray-minimums
     - name: Sum of Subarray Ranges
       link: /algo/stacks_and_queues/2022-09-09-sum-of-subarray-ranges
+    - name: Sum of Total Strength of Wizards
+      link: /algo/stacks_and_queues/2022-09-14-sum-of-total-strength-of-wizards
