@@ -1,12 +1,18 @@
 - label: Algorithm / Strings
   items:
+    - name: Concatenated Words
+      link: /algo/strings/2022-09-14-concatenated-words
     - name: Count Binary Substrings
       link: /algo/strings/2022-09-12-count-binary-substrings
     - name: Flip String to Monotone Increasing
       link: /algo/strings/2022-09-12-flip-string-to-monotone-increasing
     - name: Minimum Number of Keypresses
       link: /algo/strings/2022-09-12-minimum-number-of-keypresses
+    - name: Minimum Number of Moves to Make Palindrome
+      link: /algo/strings/2022-09-14-minimum-number-of-moves-to-make-palindrome
     - name: Minimum Number of Swaps to Make the Binary String Alternating
       link: /algo/strings/2022-09-12-minimum-number-of-swaps-to-make-the-binary-string-alternating
+    - name: Total Appeal of A String
+      link: /algo/strings/2022-09-14-total-appeal-of-a-string
     - name: Verifying an Alien Dictionary
       link: /algo/strings/2022-09-08-verifying-an-alien-dictionary

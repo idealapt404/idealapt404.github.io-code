@@ -2,6 +2,8 @@
   items:
     - name: Bag of Tokens
       link: /algo/arrays/2022-09-12-bag-of-tokens
+    - name: Find Original Array From Doubled Array
+      link: /algo/arrays/2022-09-15-find-original-array-from-doubled-array
     - name: Minimum Health to Beat Game
       link: /algo/arrays/2022-09-09-minimum-health-to-beat-game
     - name: Number of Islands
