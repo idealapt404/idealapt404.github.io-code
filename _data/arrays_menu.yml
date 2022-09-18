@@ -4,13 +4,21 @@
       link: /algo/arrays/2022-09-12-bag-of-tokens
     - name: Find Original Array From Doubled Array
       link: /algo/arrays/2022-09-15-find-original-array-from-doubled-array
+    - name: Minimum Adjacent Swaps for K Consecutive Ones
+      link: /algo/arrays/2022-09-18-minimum-adjacent-swaps-for-k-consecutive-ones
     - name: Minimum Health to Beat Game
       link: /algo/arrays/2022-09-09-minimum-health-to-beat-game
+    - name: Minimum Swaps to Group All 1's Together
+      link: /algo/arrays/2022-09-18-minimum-swaps-to-group-all-1-s-together
+    - name: Minimum Swaps to Group All 1's Together II
+      link: /algo/arrays/2022-09-18-minimum-swaps-to-group-all-1-s-together-ii
     - name: Number of Islands
       link: /algo/arrays/2022-09-10-number-of-islands
     - name: Range Addition
       link: /algo/arrays/2022-09-12-range-addition
     - name: Rotting Oranges
       link: /algo/arrays/2022-09-12-rotting-oranges
+    - name: Trapping Rain Water
+      link: /algo/arrays/2022-09-18-trapping-rain-water
     - name: UTF-8 Validation
       link: /algo/arrays/2022-09-13-utf-8-validation
