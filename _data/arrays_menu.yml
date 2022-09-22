@@ -4,6 +4,8 @@
       link: /algo/arrays/2022-09-12-bag-of-tokens
     - name: Find Original Array From Doubled Array
       link: /algo/arrays/2022-09-15-find-original-array-from-doubled-array
+    - name: Make Array Zero by Subtracting Equal Amounts
+      link: /algo/arrays/2022-09-21-make-array-zero-by-subtracting-equal-amounts
     - name: Minimum Adjacent Swaps for K Consecutive Ones
       link: /algo/arrays/2022-09-18-minimum-adjacent-swaps-for-k-consecutive-ones
     - name: Minimum Adjacent Swaps to Make a Valid Array
@@ -16,10 +18,16 @@
       link: /algo/arrays/2022-09-18-minimum-swaps-to-group-all-1-s-together-ii
     - name: Number of Islands
       link: /algo/arrays/2022-09-10-number-of-islands
+    - name: Pairs of Songs With Total Durations Divisible by 60
+      link: /algo/arrays/2022-09-21-pairs-of-songs-with-total-durations-divisible-by-60
+    - name: Partition Array Such That Maximum Difference Is K
+      link: /algo/arrays/2022-09-21-partition-array-such-that-maximum-difference-is-k
     - name: Range Addition
       link: /algo/arrays/2022-09-12-range-addition
     - name: Rotting Oranges
       link: /algo/arrays/2022-09-12-rotting-oranges
+    - name: Sum of Even Numbers After Queries
+      link: /algo/arrays/2022-09-21-sum-of-even-numbers-after-queries
     - name: Trapping Rain Water
       link: /algo/arrays/2022-09-18-trapping-rain-water
     - name: UTF-8 Validation

@@ -12,6 +12,8 @@
       link: /algo/strings/2022-09-14-minimum-number-of-moves-to-make-palindrome
     - name: Minimum Number of Swaps to Make the Binary String Alternating
       link: /algo/strings/2022-09-12-minimum-number-of-swaps-to-make-the-binary-string-alternating
+    - name: Optimal Partition of String
+      link: /algo/strings/2022-09-21-optimal-partition-of-string
     - name: Palindrome Pairs
       link: /algo/strings/2022-09-17-palindrome-pairs
     - name: Total Appeal of A String
