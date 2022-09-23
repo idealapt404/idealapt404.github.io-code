@@ -1,5 +1,7 @@
 - label: Algorithm / Others
   items:
+    - name: Concatenation of Consecutive Binary Numbers
+      link: /algo/others/2022-09-23-concatenation-of-consecutive-binary-numbers
     - name: Find Triangular Sum of an Array
       link: /algo/others/2022-09-10-find-triangular-sum-of-an-array
     - name: Robot Bounded In Circle
