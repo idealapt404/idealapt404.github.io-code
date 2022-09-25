@@ -2,5 +2,7 @@
   items:
     - name: Amount of Time for Binary Tree to Be Infected
       link: /algo/trees/2022-09-21-amount-of-time-for-binary-tree-to-be-infected
+    - name: Path Sum II
+      link: /algo/trees/2022-09-24-path-sum-ii
     - name: Pseudo-Palindromic Paths in a Binary Tree
       link: /algo/trees/2022-09-14-pseudo-palindromic-paths-in-a-binary-tree

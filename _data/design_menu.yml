@@ -1,4 +1,8 @@
 - label: Algorithm / Design
   items:
+    - name: Design Circular Queue
+      link: /algo/design/2022-09-25-design-circular-queue
+    - name: Find Median from Data Stream
+      link: /algo/design/2022-09-24-find-median-from-data-stream
     - name: LRU Cache
       link: /algo/design/2022-09-09-lru-cache

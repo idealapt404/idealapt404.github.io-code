@@ -2,3 +2,5 @@
   items:
     - name: Number of Provinces
       link: /algo/graphs/2022-09-17-number-of-provinces
+    - name: Shortest Path to Get Food
+      link: /algo/graphs/2022-09-13-shortest-path-to-get-food

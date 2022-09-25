@@ -4,6 +4,8 @@
       link: /algo/strings/2022-09-14-concatenated-words
     - name: Count Binary Substrings
       link: /algo/strings/2022-09-12-count-binary-substrings
+    - name: Find Words That Can Be Formed by Characters
+      link: /algo/strings/2022-09-24-find-words-that-can-be-formed-by-characters
     - name: Flip String to Monotone Increasing
       link: /algo/strings/2022-09-12-flip-string-to-monotone-increasing
     - name: Minimum Number of Keypresses
@@ -16,6 +18,8 @@
       link: /algo/strings/2022-09-21-optimal-partition-of-string
     - name: Palindrome Pairs
       link: /algo/strings/2022-09-17-palindrome-pairs
+    - name: Subdomain Visit Count
+      link: /algo/strings/2022-09-24-subdomain-visit-count
     - name: Text Justification
       link: /algo/strings/2022-09-23-text-justification
     - name: Total Appeal of A String
