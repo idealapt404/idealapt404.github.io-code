@@ -1,5 +1,7 @@
 - label: Algorithm / Others
   items:
+    - name: Alert Using Same Key-Card Three or More Times in a One Hour Period
+      link: /algo/others/2022-09-26-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
     - name: Concatenation of Consecutive Binary Numbers
       link: /algo/others/2022-09-23-concatenation-of-consecutive-binary-numbers
     - name: Find Triangular Sum of an Array
