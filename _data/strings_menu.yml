@@ -18,6 +18,8 @@
       link: /algo/strings/2022-09-21-optimal-partition-of-string
     - name: Palindrome Pairs
       link: /algo/strings/2022-09-17-palindrome-pairs
+    - name: Push Dominoes
+      link: /algo/strings/2022-09-27-push-dominoes
     - name: Subdomain Visit Count
       link: /algo/strings/2022-09-24-subdomain-visit-count
     - name: Text Justification

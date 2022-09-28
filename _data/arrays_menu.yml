@@ -2,8 +2,12 @@
   items:
     - name: Bag of Tokens
       link: /algo/arrays/2022-09-12-bag-of-tokens
+    - name: Check if Every Row and Column Contains All Numbers
+      link: /algo/arrays/2022-09-27-check-if-every-row-and-column-contains-all-numbers
     - name: Find Original Array From Doubled Array
       link: /algo/arrays/2022-09-15-find-original-array-from-doubled-array
+    - name: Flood Fill
+      link: /algo/arrays/2022-09-27-flood-fill
     - name: Make Array Zero by Subtracting Equal Amounts
       link: /algo/arrays/2022-09-21-make-array-zero-by-subtracting-equal-amounts
     - name: Merge Sorted Array
