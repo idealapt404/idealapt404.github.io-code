@@ -1,5 +1,7 @@
 - label: Algorithm / Design
   items:
+    - name: Binary Search Tree Iterator
+      link: /algo/design/2022-09-30-binary-search-tree-iterator
     - name: Design Circular Queue
       link: /algo/design/2022-09-25-design-circular-queue
     - name: Design Hit Counter
@@ -8,3 +10,5 @@
       link: /algo/design/2022-09-24-find-median-from-data-stream
     - name: LRU Cache
       link: /algo/design/2022-09-09-lru-cache
+    - name: Time Based Key-Value Store
+      link: /algo/design/2022-10-06-time-based-key-value-store

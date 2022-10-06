@@ -8,6 +8,8 @@
       link: /algo/sorting_and_searching/2022-09-19-find-k-th-smallest-pair-distance
     - name: K Closest Points to Origin
       link: /algo/sorting_and_searching/2022-09-10-k-closest-points-to-origin
+    - name: Find K Closest Elements
+      link: /algo/sorting_and_searching/2022-09-29-find-k-closest-elements
     - name: Maximum Units on a Truck
       link: /algo/sorting_and_searching/2022-09-13-maximum-units-on-a-truck
     - name: Meeting Rooms II -- Minimum Rooms
