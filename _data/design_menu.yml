@@ -10,5 +10,11 @@
       link: /algo/design/2022-09-24-find-median-from-data-stream
     - name: LRU Cache
       link: /algo/design/2022-09-09-lru-cache
+    - name: My Calendar I
+      link: /algo/design/2022-10-07-my-calendar-i
+    - name: My Calendar II
+      link: /algo/design/2022-10-07-my-calendar-ii
+    - name: My Calendar III
+      link: /algo/design/2022-10-07-my-calendar-iii
     - name: Time Based Key-Value Store
       link: /algo/design/2022-10-06-time-based-key-value-store

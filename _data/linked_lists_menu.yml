@@ -1,5 +1,7 @@
 - label: Algorithm / Linked Lists
   items:
+    - name: Delete Node in a Linked List
+      link: /algo/linked_lists/2022-10-13-delete-node-in-a-linked-list
     - name: Maximum Twin Sum of a Linked List
       link: /algo/linked_lists/2022-09-12-maximum-twin-sum-of-a-linked-list
     - name: Merge k Sorted Lists
