@@ -4,6 +4,8 @@
       link: /algo/arrays/2022-09-12-bag-of-tokens
     - name: Check if Every Row and Column Contains All Numbers
       link: /algo/arrays/2022-09-27-check-if-every-row-and-column-contains-all-numbers
+    - name: Contains Duplicate II
+      link: /algo/arrays/2022-10-21-contains-duplicate-ii
     - name: Find Original Array From Doubled Array
       link: /algo/arrays/2022-09-15-find-original-array-from-doubled-array
     - name: Flood Fill

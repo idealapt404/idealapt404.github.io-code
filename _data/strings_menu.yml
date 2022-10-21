@@ -2,12 +2,16 @@
   items:
     - name: Concatenated Words
       link: /algo/strings/2022-09-14-concatenated-words
+    - name: Count and Say
+      link: /algo/strings/2022-10-18-count-and-say
     - name: Count Binary Substrings
       link: /algo/strings/2022-09-12-count-binary-substrings
     - name: Find Words That Can Be Formed by Characters
       link: /algo/strings/2022-09-24-find-words-that-can-be-formed-by-characters
     - name: Flip String to Monotone Increasing
       link: /algo/strings/2022-09-12-flip-string-to-monotone-increasing
+    - name: Integer to Roman
+      link: /algo/strings/2022-10-20-integer-to-roman
     - name: Minimum Number of Keypresses
       link: /algo/strings/2022-09-12-minimum-number-of-keypresses
     - name: Minimum Number of Moves to Make Palindrome
