@@ -10,9 +10,10 @@ tags:
 date: 2022-09-21 16:20 +0900
 ---
 ## Introduction
-This problem looks a simulation required.
-However, the answer is just a number of times.
-If we follow the simulation, it turns out the number of unique non-zero values is the answer.
+This problem looks like a simulation required.
+However, if we carefully read the problem, it turns out the answer is just a number of times.
+Think what will go on from the problem description.
+The number of unique non-zero values is the answer.
 
 ## Problem Description
 > You are given a non-negative integer array `nums`.

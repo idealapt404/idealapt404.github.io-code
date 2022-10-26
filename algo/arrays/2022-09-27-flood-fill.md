@@ -52,8 +52,10 @@ Output: [[0,0,0],[0,0,0]]
 ## Analysis
 The solution here uses the breadth-first search (BFS).
 BFS might run slow, but can avoid a stack level too deep error.
-Nothing special, but it checks the color first.
-If the stating cell and new colors are the same, no need to process any.
+Before starting BFS, it check the color at the starting cell.
+If the starting cell has the same color as the new color, there's nothing to do.
+The BFS is nothing special.
+It checks 4 neighbors, updates color and append the cell to the BFS queue.
 
 ## Solution
 ```python
