@@ -6,6 +6,8 @@
       link: /algo/arrays/2022-09-27-check-if-every-row-and-column-contains-all-numbers
     - name: Contains Duplicate II
       link: /algo/arrays/2022-10-21-contains-duplicate-ii
+    - name: Continuous Subarray Sum
+      link: /algo/arrays/2022-10-26-continuous-subarray-sum
     - name: Find Original Array From Doubled Array
       link: /algo/arrays/2022-09-15-find-original-array-from-doubled-array
     - name: Flood Fill
@@ -40,6 +42,8 @@
       link: /algo/arrays/2022-09-12-range-addition
     - name: Rotting Oranges
       link: /algo/arrays/2022-09-12-rotting-oranges
+    - name: Subarray Sum Equals K
+      link: /algo/arrays/2022-10-26-subarray-sum-equals-k
     - name: Sum of Even Numbers After Queries
       link: /algo/arrays/2022-09-21-sum-of-even-numbers-after-queries
     - name: Trapping Rain Water

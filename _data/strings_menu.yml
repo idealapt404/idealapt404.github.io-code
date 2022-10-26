@@ -12,12 +12,16 @@
       link: /algo/strings/2022-09-12-flip-string-to-monotone-increasing
     - name: Integer to Roman
       link: /algo/strings/2022-10-20-integer-to-roman
+    - name: Maximum Length of a Concatenated String with Unique Characters
+      link: /algo/strings/2022-10-24-maximum-length-of-a-concatenated-string-with-unique-characters
     - name: Minimum Number of Keypresses
       link: /algo/strings/2022-09-12-minimum-number-of-keypresses
     - name: Minimum Number of Moves to Make Palindrome
       link: /algo/strings/2022-09-14-minimum-number-of-moves-to-make-palindrome
     - name: Minimum Number of Swaps to Make the Binary String Alternating
       link: /algo/strings/2022-09-12-minimum-number-of-swaps-to-make-the-binary-string-alternating
+    - name: Minimum Window Substring
+      link: /algo/strings/2022-10-24-minimum-window-substring
     - name: Optimal Partition of String
       link: /algo/strings/2022-09-21-optimal-partition-of-string
     - name: Palindrome Pairs
