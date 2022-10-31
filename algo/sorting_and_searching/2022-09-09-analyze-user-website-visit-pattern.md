@@ -24,10 +24,10 @@ That function is used here.
 > A pattern is a list of three websites (not necessarily distinct).
 > For example, ["home", "away", "love"], ["leetcode", "love", "leetcode"],
 > and ["luffy", "luffy", "luffy"] are all patterns.
-
+>
 > The score of a pattern is the number of users that visited all the websites
 > in the pattern in the same order they appeared in the pattern.
-
+>
 > Return the pattern with the largest score.
 > If there is more than one pattern with the same largest score,
 > return the lexicographically smallest such pattern.
@@ -101,5 +101,5 @@ class AnalyzeUserWebsiteVisitPattern:
 ```
 
 ## Complexities
-- Time: `O(nlog(n))` -- sorting, `O(n^3)` -- combinations
+- Time: `O(n*log(n))` -- sorting, `O(n^3)` -- combinations
 - Space: `O(n+m)` -- n: number of users, m: number of 3 website combinations

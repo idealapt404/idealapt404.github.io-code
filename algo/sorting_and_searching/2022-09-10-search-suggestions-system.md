@@ -16,15 +16,15 @@ Trie is a good data structure for this type of problems.
 However, binary search is another good way to find the answer.
 Since the problem asks "lexicographically minimums,"
 input data should be sorted at the beginning.
-If the language is Python, binary search is a good one to apply.
-Python has the binary search function and string comparison can be done like a number.
+If the language is Python, binary search is a good algorithm to apply.
+Python's binary search function supports string like a number.
 
 ## Problem Description
 > You are given an array of strings `products` and a string `searchWord`.
 > Design a system that suggests at most three product names from `products`
 > after each character of `searchWord` is typed.
 > Suggested products should have common prefix with `searchWord`.
-> If there are more than three products with a common prefix return the three lexicographically minimums products.
+> If there are more than three products with a common prefix, return the three lexicographically minimums products.
 >
 > Return a list of lists of the suggested products after each character of `searchWord` is typed.
 >
@@ -77,5 +77,5 @@ class SearchSuggestionsSystem:
 ```
 
 ## Complexities
-- Time: `O(nlogn(n))`
+- Time: `O(n*log(n))`
 - Space: `O(1)`

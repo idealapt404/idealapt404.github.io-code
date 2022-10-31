@@ -11,7 +11,7 @@ date: 2022-09-21 14:44 +0900
 ---
 ## Introduction
 Interval problems almost always start from sorting the given array.
-Depending in the problem, the sorting is done by start time, end time or both.
+Depending on the problem, the sorting is done by start time, end time or both.
 In many cases, the idea of merging the interval works.
 This problem doesn't need the merging, however, some sort of merging idea can be used.
 
@@ -78,5 +78,5 @@ class DivideIntervalsIntoMinimumNumberOfGroups:
 ```
 
 ## Complexities
-- Time: `O(nlog(n))`
+- Time: `O(n*log(n))`
 - Space: `O(m)` -- m: number of groups

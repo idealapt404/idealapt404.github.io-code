@@ -56,8 +56,8 @@ Output: -1
 
 ## Analysis
 The first step is to create a graph with edge weights.
-The second step is to traverse a graph by Dijkstra algorithm.
-The edge weight sum is a sorting key. The queue has tuples of weight sum and node.
+The second step is to traverse a graph using Dijkstra algorithm.
+The edge weight sum is a sorting key. The queue (heap) has tuples of weight sum and node.
 While traversing, it saves the shortest path's sum of weights to each node.
 In the end, the maximum of weights is the minimum time delay.
 
