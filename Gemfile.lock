@@ -111,6 +111,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-avatar (0.7.0)
       jekyll (>= 3.0, < 5.0)
+    jekyll-bulma-tabs (0.1.0)
+      jekyll (>= 3.6, < 5.0)
     jekyll-coffeescript (1.1.1)
       coffee-script (~> 2.2)
       coffee-script-source (~> 1.11.1)
@@ -271,6 +273,7 @@ DEPENDENCIES
   bulma-clean-theme
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
+  jekyll-bulma-tabs (= 0.1.0)
   jekyll-compose (~> 0.12.0)
   jekyll-feed (~> 0.6)
   kramdown-parser-gfm

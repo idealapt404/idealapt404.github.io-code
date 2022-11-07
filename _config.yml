@@ -38,6 +38,7 @@ kramdown:
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-bulma-tabs
 
 # bulma-clean-theme settings
 fixed_navbar: top
