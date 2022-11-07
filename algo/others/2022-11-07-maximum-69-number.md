@@ -53,6 +53,66 @@ Lastly, convert the result string to integer to meet with the requirement.
 ## Solution
 {% tabs solution is-boxed %}
 
+{% tab solution C++ %}
+```cpp
+class Maximum69Number {
+public:
+    int maximum69Number (int num) {
+        std::string s = std::to_string(num);
+        std::size_t found = s.find("6");
+        if (found != std::string::npos) {
+            s.replace(found, 1, "9");
+        }
+        return std::stoi(s);
+    }
+};
+```
+{% endtab %}
+
+{% tab solution Java %}
+```java
+class Maximum69Number {
+    public int maximum69Number (int num) {
+        String s = String.valueOf(num);
+        int found = s.indexOf("6");
+        if (found >= 0) {
+            s = s.replaceFirst("6", "9");
+        }
+        return Integer.parseInt(s);
+    }
+}
+```
+{% endtab %}
+
+{% tab solution JavaScript %}
+```js
+/**
+ * @param {number} num
+ * @return {number}
+ */
+var maximum69Number  = function(num) {
+        let s = num.toString();
+        let found = s.indexOf("6");
+        if (found >= 0) {
+            s = s.replace('6', '9');
+        }
+        return parseInt(s);
+    };
+```
+{% endtab %}
+/**
+* @param {number} num
+* @return {number}
+  */
+  var maximum69Number  = function(num) {
+  let s = num.toString();
+  let found = s.indexOf("6");
+  if (found >= 0) {
+  s = s.replace('6', '9');
+  }
+  return parseInt(s);
+  };
+
 {% tab solution Python %}
 ```python
 class Maximum69Number:
